@@ -1,1 +1,1 @@
-# sismo_websc
+# sismo-websc
